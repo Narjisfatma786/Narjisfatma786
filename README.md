@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Narjisfatma786
+- 👋 Hi, I’m Narjisfatma
 - 👀 I’m interested in database skills and sql query language.
 - 🌱 I’m currently learning information technology 
 - 💞️ I’m looking to collaborate on ...
